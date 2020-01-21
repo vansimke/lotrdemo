@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Frodo",
+    "people": "Hobbits",
+    "role": "Destroys the ring"
+  },
+  {
+    "id": 2,
+    "name": "Sam",
+    "people": "Hobbit",
+    "role": "Frodo's gardener"
+  },
+  {
+    "id": 3,
+    "name": "Merry",
+    "people": "Hobbit",
+    "role": "Gets in trouble"
+  },
+  {
+    "id": 4,
+    "name": "Pippin",
+    "people": "Hobbit",
+    "role": "Also gets in trouble"
+  },
+  {
+    "id": 5,
+    "name": "Legolas",
+    "people": "Elf",
+    "role": "Archer"
+  },
+  {
+    "id": 6,
+    "name": "Gimli",
+    "people": "Dwarf",
+    "role": "Miner"
+  },
+  {
+    "id": 7,
+    "name": "Aragorn",
+    "people": "Men",
+    "role": "King"
+  },
+  {
+    "id": 8,
+    "name": "Gandalf the Grey",
+    "people": "Wizard",
+    "role": "Guides Frodo"
+  }
+]
